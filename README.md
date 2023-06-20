@@ -14,9 +14,11 @@ Operações cliente:
   Excluir clientes (cliente)
 Operações quarto:
   Visualizar quartos (quarto)
-  Operações reserva:
+  Cadastrar quarto (quarto)
+  Excluir quarto (quarto)
+  Alterar quarto (quarto)
+Operações reserva:
   Acessar reservas (cliente, quarto e reserva).
-  Adicionar pagamento (????).
   Criar reserva  (cliente, quarto e reserva)
   Alterar reserva (cliente, quarto e reserva).
   Excluir reserva  (cliente, quarto e reserva).
