@@ -3,27 +3,38 @@
 </p>  
 
 ---
+<p align = "justify">
+O sistema Hotel Plus é uma aplicação de software projetada para atender às necessidades de uma dada empresa de hotelaria, fornecendo uma solução eficiente e intuitiva para a equipe de recepção dessa empresa. O principal objetivo do sistema é fornecer aos recepcionistas uma forma de efetuar venda e alocação de reservas de quarto, bem como realizar operações de visualização, alteração e exclusão das mesmas.
+Assim, o sistema faz-se importante e necessário, uma vez que é capaz de promover maior eficiência operacional, ao automatizar tarefas manuais relacionadas à vendas de reservas, possibilitando um atendimento mais rápido e prático aos clientes. Além disso, o sistema possibilita o acesso a um cadastro detalhado dos clientes, possibilitando um atendimento personalizado dado às preferências dos clientes. O sistema também fornece um meio mais eficiente para controle e organização de reservas, possibilitando uma visão mais abrangente sobre as mesmas e sobre os quartos disponíveis, facilitando o planejamento e a alocação de recursos.
+</p>
 
-O Software foi projetado para ser implementado em uma dada empresa de hotelaria X. Voltado para usuários que sejam funcionários dessa empresa e que exerçam trabalhos dentro da recepção. Através disso, o objetivo do software é permitir que o recepcionista faça a venda de reservas, bem como seja capaz de visualizá-las, alterá-las e excluí-las. O software fornece operação de cadastro a clientes, necessário para fazer as reservas e, além disso, operações para visualização, alteração e exclusão dos mesmos. O sistema desenvolvido não estará integrado a nenhum sistema. A estrutura de diretório do projeto é: database, controller, routes, services e repositories. 
 
-Funcionalidades:
-Operações básicas:
-  Entrada no sistema/logar.
+### Funcionalidades:
+
+* __Operações básicas:__
+  
+  Entrada no sistema/logar.  
   Saída no sistema.
-Operações cliente:
-  Acessar cliente (cliente)
-  Alterar cliente (cliente)
-  Visualizar clientes (cliente)
-  Excluir clientes (cliente)
-Operações quarto:
-  Visualizar quartos (quarto)
-  Cadastrar quarto (quarto)
-  Excluir quarto (quarto)
-  Alterar quarto (quarto)
-Operações reserva:
-  Acessar reservas (cliente, quarto e reserva).
-  Criar reserva  (cliente, quarto e reserva)
-  Alterar reserva (cliente, quarto e reserva).
-  Excluir reserva  (cliente, quarto e reserva).
+  
+* __Operações cliente:__
+   
+  Acessar cliente (cliente).  
+  Alterar cliente (cliente).  
+  Visualizar clientes (cliente).  
+  Excluir clientes (cliente).
+ 
+* __Operações quarto:__
+  
+  Visualizar quartos (quarto).  
+  Cadastrar quarto (quarto).  
+  Excluir quarto (quarto).  
+  Alterar quarto (quarto).
+  
+* __Operações reserva:__
+  
+  Acessar reservas (cliente, quarto e reserva).  
+  Criar reserva  (cliente, quarto e reserva).  
+  Alterar reserva (cliente, quarto e reserva).  
+  Excluir reserva  (cliente, quarto e reserva).  
 
 
