@@ -67,4 +67,17 @@ Assim, o sistema faz-se importante e necessário, uma vez que é capaz de promov
 
    Adições ou alterações de arquivos deverão ser tratados por meio de `branchs`, de tal forma que cada modificação realizada no projeto terá uma branch específica para tal atividade, e que após ser finalizada e testada, deverá então ser unificada com o ramo principal do projeto.
 
+---
 
+### __Práticas de Codificação:__
+
+#### CLEAN CODE
+
+   1. O código deve ter comentários explicativos ajudando na descrição de métodos e variáveis.
+   2. Nomes de métodos e variáveis devem descrever exatamente o que ele(a) é e qual é a sua função.
+   3. Métodos / Funções devem ter uma alta coesão, ou seja deverão possuir uma responsabilidade única e bem definida.
+   4. Não deve existir dois ou mais métodos que realizem a mesma função ou que possuam trechos de códigos muito próximos.
+   5. O software deve possuir tratamento para todos os erros e exceções que são previsiveis de se acontecer.
+   6. Toda tarefa realizada pelo software deve ser passada por uma série de testes de validação.
+
+Estas técnicas contribuem para um código mais limpo, organizado, seguro, de fácil entendimento e manutenibilidade. 
