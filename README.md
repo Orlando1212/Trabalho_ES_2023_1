@@ -61,7 +61,13 @@ Banco De Dados = PostgreSQL
 
 ### __Regras e Padrões de uso do Git:__
 
-Arquivos de documentação estão presentes na pasta `Documentacao`
+* __Arquivos__
 
-Arquivos de código estão presentes na pasta `src`
+  Arquivos de documentação estão presentes na pasta [`Documentacao`](./Documentacao) <br>
+  Arquivos de código estão presentes na pasta [`src`](./src)
+
+* __Regras de alterações__
+
+   Adições ou alterações de arquivos deverão ser tratados por meio de `branchs`, de tal forma que cada modificação realizada no projeto terá uma branch específica para tal atividade, e que após ser finalizada e testada, deverá então ser unificada com o ramo principal do projeto.
+
 
