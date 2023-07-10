@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Cadastrar Cliente</h2>
+
+<form action="http://localhost:3000/cliente"  method="post">
+
+  <label for="cpf">CPF:</label><br>
+  <input type="text" id="cpf" name="cpf"><br><br>
+
+  <label for="primeiro_nome">Primeiro Nome:</label><br>
+  <input type="text" id="primeiro_nome" name="primeiro_nome"><br><br>
+
+  <label for="ultimo_nome">Ultimo Nome:</label><br>
+  <input type="text" id="ultimo_nome" name="ultimo_nome"><br><br>
+  
+  <label for="data_nasc">Nascimento:</label><br>
+  <input type="date" id="data_nasc" name="data_nasc"><br><br>
+  
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email"><br><br>
+  
+  <label for="ddd_telefone">Telefone:</label><br>
+  <input type="text" id="ddd_telefone" name="ddd_telefone"><br><br>
+  
+  <input type="submit" value="Salvar">
+  <input type="reset" value="Limpar">
+
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+</html>
