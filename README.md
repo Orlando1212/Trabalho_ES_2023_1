@@ -42,4 +42,26 @@ Banco De Dados = PostgreSQL
   Alterar reserva (cliente, quarto e reserva).  
   Excluir reserva  (cliente, quarto e reserva).  
 
+---
+
+### __Tecnologias Utilizadas:__
+
+### __Front-end__
+
+* HTML 5
+* CSS 3
+* JavaScript 
+
+### __Back-end__
+
+* NodeJS 18
+* Postgre
+
+---
+
+### __Regras e Padrões de uso do Git:__
+
+Arquivos de documentação estão presentes na pasta `Documentacao`
+
+Arquivos de código estão presentes na pasta `src`
 
