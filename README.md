@@ -8,12 +8,6 @@ O sistema Hotel Plus é uma aplicação de software projetada para atender às n
 Assim, o sistema faz-se importante e necessário, uma vez que é capaz de promover maior eficiência operacional, ao automatizar tarefas manuais relacionadas à vendas de reservas, possibilitando um atendimento mais rápido e prático aos clientes. Além disso, o sistema possibilita o acesso a um cadastro detalhado dos clientes, possibilitando um atendimento personalizado dado às preferências dos clientes. O sistema também fornece um meio mais eficiente para controle e organização de reservas, possibilitando uma visão mais abrangente sobre as mesmas e sobre os quartos disponíveis, facilitando o planejamento e a alocação de recursos.
 </p>
 
-### Tecnologias:
-
-Back-End = Node.js
-Front-End = HTML5,CSS3,Javascript
-Banco De Dados = PostgreSQL
-
 ### Funcionalidades:
 
 * __Operações básicas:__
@@ -55,7 +49,10 @@ Banco De Dados = PostgreSQL
 ### __Back-end__
 
 * NodeJS 18
-* Postgre
+
+### __Banco de Dados__
+
+* PostgreSQL
 
 ---
 
